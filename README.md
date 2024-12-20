@@ -1,4 +1,4 @@
-# EmployWise User Management
+# Global groupware User Management
 
 This React application integrates with the Reqres API to perform basic user management functions, including authentication, user listing, and user editing/deletion.
 
